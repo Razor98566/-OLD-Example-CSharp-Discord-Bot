@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\razor\\RiderProjects\\DSharpWrapperBotTest\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\razor\\RiderProjects\\DSharpWrapperBotTest\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\razor\\RiderProjects\\DSharpWrapperBotTest\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj",
+        "projectName": "DSharpWrapperBotTest",
+        "projectPath": "C:\\Users\\razor\\RiderProjects\\DSharpWrapperBotTest\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj",
+        "packagesPath": "C:\\Users\\razor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razor\\RiderProjects\\DSharpWrapperBotTest\\DSharpWrapperBotTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\razor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CloudTheWolf.DSharpPlus.Scaffolding.Data": {
+              "target": "Package",
+              "version": "[2.0.0.1, )"
+            },
+            "CloudTheWolf.DSharpPlus.Scaffolding.Logging": {
+              "target": "Package",
+              "version": "[2.0.0.2, )"
+            },
+            "CloudTheWolf.DSharpPlus.Scaffolding.Shared": {
+              "target": "Package",
+              "version": "[2.1.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

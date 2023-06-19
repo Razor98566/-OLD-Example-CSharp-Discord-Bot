@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+        <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+        <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <RunPostBuildEvent>Always</RunPostBuildEvent>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <PlatformTarget>x64</PlatformTarget>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="CloudTheWolf.DSharpPlus.Scaffolding.Data" Version="2.0.0.1" />
+      <PackageReference Include="CloudTheWolf.DSharpPlus.Scaffolding.Logging" Version="2.0.0.2" />
+      <PackageReference Include="CloudTheWolf.DSharpPlus.Scaffolding.Shared" Version="2.1.1.3" />
+    </ItemGroup>
+    <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+        <Exec Command="XCOPY &quot;$(TargetDir)&quot; &quot;C:\Users\razor\Desktop\System\Discord Bot\windows\Plugins\MyPlugin\&quot; /S /Y" />
+    </Target>
+</Project>
