@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4RYJQNU5lJOmK+TtW2s/Ke4R2ef3NH3Szr6qX0JiKbNNx5N/9PDaEVsRj23CojeccZmni9pZSvHmFjcM1yCs2w==",
+  "dgSpecHash": "EWcsmjhaKXgwwXtJiCQ4g1fMKzWHlEzxRzr2mXP0xB7Ty1ZQPptKgnb674CuNh0shJEYnHj7cs3TKRQuNnVNDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\razor\\RiderProjects\\DSharpWrapperBotTest\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj",
+  "projectFilePath": "C:\\Users\\razor\\Desktop\\Programming\\Discord Bot\\Example-CSharp-Discord-Bot\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\razor\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\razor\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

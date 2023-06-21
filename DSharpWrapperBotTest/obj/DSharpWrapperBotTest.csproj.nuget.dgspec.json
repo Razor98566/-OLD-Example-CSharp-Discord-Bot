@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\razor\\RiderProjects\\DSharpWrapperBotTest\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj": {}
+    "C:\\Users\\razor\\Desktop\\Programming\\Discord Bot\\Example-CSharp-Discord-Bot\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\razor\\RiderProjects\\DSharpWrapperBotTest\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj": {
+    "C:\\Users\\razor\\Desktop\\Programming\\Discord Bot\\Example-CSharp-Discord-Bot\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\razor\\RiderProjects\\DSharpWrapperBotTest\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj",
+        "projectUniqueName": "C:\\Users\\razor\\Desktop\\Programming\\Discord Bot\\Example-CSharp-Discord-Bot\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj",
         "projectName": "DSharpWrapperBotTest",
-        "projectPath": "C:\\Users\\razor\\RiderProjects\\DSharpWrapperBotTest\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj",
+        "projectPath": "C:\\Users\\razor\\Desktop\\Programming\\Discord Bot\\Example-CSharp-Discord-Bot\\DSharpWrapperBotTest\\DSharpWrapperBotTest.csproj",
         "packagesPath": "C:\\Users\\razor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\razor\\RiderProjects\\DSharpWrapperBotTest\\DSharpWrapperBotTest\\obj\\",
+        "outputPath": "C:\\Users\\razor\\Desktop\\Programming\\Discord Bot\\Example-CSharp-Discord-Bot\\DSharpWrapperBotTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\razor\\AppData\\Roaming\\NuGet\\NuGet.Config"
